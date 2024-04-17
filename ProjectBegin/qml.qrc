@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Header1.qml</file>
+        <file>Page1.qml</file>
+        <file>Text1.qml</file>
+        <file>Page2.qml</file>
+        <file>Message1.qml</file>
+        <file>HomePage.qml</file>
+        <file>GroupBoxDemo.qml</file>
+        <file>Login.qml</file>
+        <file>Login2.qml</file>
+        <file>Settings.qml</file>
+        <file>Poll1.qml</file>
+        <file>Poll2.qml</file>
+        <file>Header2.qml</file>
+        <file>Calendar.qml</file>
+        <file>Message2.qml</file>
+        <file>Message3.qml</file>
+        <file>Feedback.qml</file>
+        <file>Products.qml</file>
+        <file>Survey.qml</file>
+    </qresource>
+</RCC>

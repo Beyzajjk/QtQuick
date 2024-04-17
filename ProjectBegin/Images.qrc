@@ -1,0 +1,53 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/clock.png</file>
+        <file>Images/edit-button.png</file>
+        <file>Images/help.png</file>
+        <file>Images/note.png</file>
+        <file>Images/open-folder.png</file>
+        <file>Images/pixel.png</file>
+        <file>Images/redo.png</file>
+        <file>Images/right-arrow.png</file>
+        <file>Images/rotate.png</file>
+        <file>Images/search (1).png</file>
+        <file>Images/settings.png</file>
+        <file>Images/skincare.png</file>
+        <file>Images/trash (2).png</file>
+        <file>Images/typing.png</file>
+        <file>Images/calendar.png</file>
+        <file>Images/call-button.png</file>
+        <file>Images/download.png</file>
+        <file>Images/pixels.png</file>
+        <file>Images/maximize.png</file>
+        <file>Font/Minecraft.ttf</file>
+        <file>Font/Calinastiya demo.ttf</file>
+        <file>Font/Lugrasimo-Regular.ttf</file>
+        <file>Images/www.png</file>
+        <file>Images/next.png</file>
+        <file>Images/starry-night.png</file>
+        <file>Images/next - Kopya.png</file>
+        <file>Font/Montserrat-VariableFont_wght.ttf</file>
+        <file>Images/after.gif</file>
+        <file>Images/background.gif</file>
+        <file>Images/before.gif</file>
+        <file>Images/giphy.gif</file>
+        <file>Images/gif1.gif</file>
+        <file>Images/cleanser.gif</file>
+        <file>Images/lotion.gif</file>
+        <file>Images/tonic.gif</file>
+        <file>Images/cleanser2.gif</file>
+        <file>Images/lotion2.gif</file>
+        <file>Images/tonic2.gif</file>
+        <file>Images/information.gif</file>
+        <file>Images/information2.gif</file>
+        <file>Images/adress1.gif</file>
+        <file>Images/adress2.gif</file>
+        <file>Images/contact1.gif</file>
+        <file>Images/contact2.gif</file>
+        <file>Images/background.jpg</file>
+        <file>Images/color.gif</file>
+        <file>Images/jessica1.gif</file>
+        <file>Images/Somi.gif</file>
+        <file>Images/Tiffany.gif</file>
+    </qresource>
+</RCC>
